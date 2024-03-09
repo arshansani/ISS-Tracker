@@ -20,6 +20,7 @@ This project analyzes the International Space Station's (ISS) trajectory data. I
 ### Data Source
 - The ISS trajectory data is sourced from NASA's Public Data: [ISS OEM Data](https://nasa-public-data.s3.amazonaws.com/iss-coords/current/ISS_OEM/ISS.OEM_J2K_EPH.xml).
 - This XML file contains detailed state vectors of the ISS over a given period.
+- Dataset Citation: NASA. ISS OEM Data [Data file](https://nasa-public-data.s3.amazonaws.com/iss-coords/current/ISS_OEM/ISS.OEM_J2K_EPH.xml). Retrieved from https://nasa-public-data.s3.amazonaws.com/iss-coords/current/ISS_OEM/ISS.OEM_J2K_EPH.xml
 
 ### Running the Containerized App
 - Navigate to the directory containing the Dockerfile & docker-compose.yml.
